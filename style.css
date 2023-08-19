@@ -20,7 +20,7 @@ main{
     padding: 1.5%;
     margin-top: 3% !important;
     width: 60%;
-    height: min-content;
+    height: auto;
     background-color: white;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -39,7 +39,7 @@ td , th{
 .registration{
     margin-top: 5%;
     width: 60%;
-    height: min-content;
+    height: auto;
     background-color: white;
     padding: 1.5%;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -96,5 +96,5 @@ td , th{
   }
 
   input[type="submit"]:hover {
-      background-color: #121212;
+      background-color: #2E2E2E;
   }
